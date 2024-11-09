@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ADice</string>
+    <string name="roll_dice">Roll Dice</string>
+    <string name="roll_the_dice">Roll the dice!</string>
+    <string name="enter_dice_size">Enter dice size…</string>
+    <string name="update_dice">Update Dice</string>
+</resources>
